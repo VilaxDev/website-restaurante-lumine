@@ -43,7 +43,7 @@ const Header = () => {
               <h1 className="text-2xl md:text-3xl font-bold text-black tracking-wide">
                 <span className="flex items-center">
                   <span>LUM</span>
-                  <AlignJustify size={26} className="mt-1" />
+                  <AlignJustify size={26} />
                 </span>
                 <span className="block text-sm font-light text-gray-600 tracking-widest mt-1">
                   RESTAURANTE

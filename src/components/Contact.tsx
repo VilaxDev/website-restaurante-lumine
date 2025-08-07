@@ -16,7 +16,7 @@ const Contact = () => {
     // Construir el mensaje para WhatsApp
     const whatsappMessage = `Hola, soy ${formData.name}\nEmail: ${formData.email}.\nAsunto: ${formData.subject}\nMensaje: ${formData.message}`;
     const encodedMessage = encodeURIComponent(whatsappMessage);
-    const whatsappUrl = `https://wa.me/51927564707?text=${encodedMessage}`;
+    const whatsappUrl = `https://wa.me/51920389787?text=${encodedMessage}`;
 
     window.open(whatsappUrl, "_blank");
 

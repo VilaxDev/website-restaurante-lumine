@@ -29,7 +29,7 @@ const Reservations = () => {
     const encodedMessage = encodeURIComponent(message);
 
     // Abrimos el enlace de WhatsApp en una nueva pestaña
-    window.open(`https://wa.me/51927564707?text=${encodedMessage}`, "_blank");
+    window.open(`https://wa.me/51920389787?text=${encodedMessage}`, "_blank");
 
     setIsSubmitted(true);
     setTimeout(() => setIsSubmitted(false), 3000);

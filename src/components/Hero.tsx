@@ -29,7 +29,7 @@ const Hero = () => {
         <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-wide">
           <span className="flex items-center justify-center">
             LUM
-            <AlignJustify className="mt-2 w-14 h-14 mb-0 sm:w-16 sm:h-16 md:w-[78px] md:h-[78px]" />
+            <AlignJustify className="mt-1 w-14 h-14 mb-0 sm:w-16 sm:h-16 md:w-[78px] md:h-[78px]" />
           </span>
         </h1>
         <p className="text-xl md:text-2xl font-light mb-8 tracking-widest">
